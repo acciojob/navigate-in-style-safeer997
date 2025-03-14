@@ -14,7 +14,4 @@
     margin: 0;
 }
 
-/* Style the list items */
-.nav-bar li {
-    margin-right: 0; /* Not needed anymore because `gap` is used */
-}
+
