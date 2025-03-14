@@ -2,10 +2,12 @@
 /* Style the nav-bar */
 .container {
 	display: flex
+	 background-color: #D3D3D3;
+	    padding: 10px;
 }
 .nav-bar {
-    background-color: #D3D3D3;
-    padding: 10px;
+   
+
     list-style: none; 
 	/* Removes bullet points */
 }
