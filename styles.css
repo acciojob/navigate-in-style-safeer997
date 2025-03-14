@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+/* Style the nav-bar */
+.nav-bar {
+    background-color: #D3D3D3;
+    padding: 10px;
+    list-style: none; /* Removes bullet points */
+}
+
+/* Display list items horizontally */
+.nav-bar li {
+    display: inline;
+    margin-right: 1rem;
+}
