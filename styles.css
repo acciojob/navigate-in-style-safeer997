@@ -9,9 +9,12 @@
 .nav-bar {
     list-style: none; /* Removes bullet points */
     display: flex; /* Ensures horizontal layout */
-    gap: 1rem; /* Adds spacing between items */
+   
     padding: 0;
     margin: 0;
 }
 
-
+/* Style the list items */
+.nav-bar li {
+    margin-right: 16px; /* Not needed anymore because `gap` is used */
+}
